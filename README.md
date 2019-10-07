@@ -1,29 +1,8 @@
 # sub2clash
 
-## Project setup
-```
-npm install
-```
+一个将 ss/ssr/v2ray 订阅转换为 clash 配置的小工具
+使用 vue+element-ui 构建。
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# 截图
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![基于订阅数据的转](./imgs/1.jpg)
